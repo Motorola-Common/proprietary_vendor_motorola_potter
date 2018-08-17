@@ -484,4 +484,5 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/potter/proprietary/vendor/lib/libubifocus.so:system/vendor/lib/libubifocus.so \
     vendor/motorola/potter/proprietary/vendor/lib/libzaf_algs.so:system/vendor/lib/libzaf_algs.so \
     vendor/motorola/potter/proprietary/vendor/lib/libzaf_core.so:system/vendor/lib/libzaf_core.so \
-    vendor/motorola/potter/proprietary/vendor/lib/sensor_calibrate.so:system/vendor/lib/sensor_calibrate.so
+    vendor/motorola/potter/proprietary/vendor/lib/sensor_calibrate.so:system/vendor/lib/sensor_calibrate.so \
+    vendor/motorola/potter/proprietary/vendor/lib64/libdiag_system.so:system/vendor/lib64/libdiag_system.so
